@@ -1,1 +1,1 @@
-# udus
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD) https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8?hdnea=st=1662919897~exp=1662920497~acl=/*~hmac=aceda14fb85bd6e0cd61304f0e1db51d2a1e9325eb2dfd9760234e903a2e6f4a
